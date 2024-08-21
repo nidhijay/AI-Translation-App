@@ -11,10 +11,10 @@ const App = () => {
         <nav className="navbar">
           <ul>
             <li>
-              <Link to="/" style={{ color: 'white', textDecoration: 'none' }}>Home</Link>
+              <Link to="/" style={{ color: 'black', textDecoration: 'none' }}>Home</Link>
             </li>
             <li>
-              <Link to="/compare-translate" style={{ color: 'white', textDecoration: 'none' }}>Compare Translate</Link>
+              <Link to="/compare-translate" style={{ color: 'black', textDecoration: 'none' }}>Compare Translate</Link>
             </li>
           </ul>
         </nav>
